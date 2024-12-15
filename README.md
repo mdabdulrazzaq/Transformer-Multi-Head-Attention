@@ -18,6 +18,3 @@ python examples/toy_example.py
 ```bash
 python examples/multihead_demo.py
 ```
-
-## License
-MIT License
